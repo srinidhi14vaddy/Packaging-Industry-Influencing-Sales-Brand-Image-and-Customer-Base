@@ -76,7 +76,7 @@ Descriptive statistics are very important because if we simply presented our raw
 11. The survey had maximum active participaction from customers of age group 19 to 23. <br>
 12. Jute bags and wooden containers are the choice in traditional packaging that customers prefer for certain goods. While many also consider bamboo baskets a good choice, around 20 customers from the survey of 200 don't like and take traditional packaging as a suitable choice and option. <br>
 13. 65% of the survey participants opt for smaller packages for goods and products and find them to be more convenient. Customers would rather buy many in small packaging than less in larger sizes.<br>
-14. In a busy world, 48% customers opt for prepacked bags of fruits and vegetables while 
-14. 
+14. In a busy world, 48% customers opt for prepacked bags of fruits and vegetables while 28% don't opt for it, if it comes with a price hike. <br>
+15. 
 
 
