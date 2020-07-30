@@ -62,5 +62,21 @@ Descriptive statistics are very important because if we simply presented our raw
  
 5.     Plotly: The plotly Python library (plotly.py) is an interactive, open-source plotting library that supports over 40 unique chart types covering a wide range of statistical, financial, geographic, scientific, and 3-dimensional use-cases. 
 
+<h3>INSIGHTS SUMMARY</h3><br>
+1. In the survey, while preprocessing, salaries of customers were recorded to understand buying trends of customers based on their income. However, 37% of the customers did not reveal their income. <br>
+2. Environmental andeco-friendly aspect of the product packaging is the factor that majorly influencing customers' preference during purchase. Followed by, cost and convenience features. <br>
+3. The customers were almost equally divided in their preference of convenience while opening packages. While 31% said that difficulty in opening package didn't effect them, 33% were effected by it and rest 36% didn't consider difficulty in opening packages as an influencing factor. <br>
+4. Preferred packaging for food : Glass containers followed by metal and then plastic. <br>
+5. Preferred packaging for fruits and vegetables : Paper/Cloth is the popular choice with more than 100 customers opting for it, followed by traditional packaging like Jute bags with around 35 customers. Metal is the least favourable option. <br>
+6. Preferred packaging for cosmetics: Plastic and glass are the preferred choice with around 60 and 55 customers respectively. <br>
+7. Preferred packaging for pharmaceuticals: Plastic <br>
+8. Preferred packaging for accessories: Paper/Cloth is the popular choice for storing any accessory, with a count of approximately 65-70 customers. Plastic and traditional packaging are further preferences of customers.<br>
+9. Preferred packaging for clothes: Paper/Cloth bags is the most preferred packaging material. <br>
+10. Preferred packaging for E-goods: Plastic, cloth, traditional packaging like cardboard boxes are preferred with a count of approximately 70, 50 and 45 customers respectively. <br>
+11. The survey had maximum active participaction from customers of age group 19 to 23. <br>
+12. Jute bags and wooden containers are the choice in traditional packaging that customers prefer for certain goods. While many also consider bamboo baskets a good choice, around 20 customers from the survey of 200 don't like and take traditional packaging as a suitable choice and option. <br>
+13. 65% of the survey participants opt for smaller packages for goods and products and find them to be more convenient. Customers would rather buy many in small packaging than less in larger sizes.<br>
+14. In a busy world, 48% customers opt for prepacked bags of fruits and vegetables while 
+14. 
 
 
