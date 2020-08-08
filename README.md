@@ -85,6 +85,6 @@ Descriptive statistics are very important because if we simply presented our raw
 20. The survey revealed that most of the people, 175 out of 203, prefer to buy a high quality product in substantial and good packaging over a high quality product in flimsy packaging or a low quality product. <br>
 21. About 150 participants would change company for a better appealing package but only if the other brand is better than the previous one but a strong count of 70 revealed to stay loyal to the company. <br>
 22. Correlating the preference of small packaging and effect on purchasing due to difficulty in opening small packaging revealed that half of the people who prefer small packaging find it difficult to then open it and this has a negative impact on purchasing. On the other hand, equal number of people, who prefer smaller packaging, didn't have any issue with opening the packaging or didn't care about it. <br>
-23. 
+
 
 
