@@ -84,7 +84,17 @@ Descriptive statistics are very important because if we simply presented our raw
 19. Upcoming technology includes QR codes that contain all additional information needed on the product. Accouting to 51% of total, customers are well aware of it but never use it and 35% claims to use it sometimes. <br>
 20. The survey revealed that most of the people, 175 out of 203, prefer to buy a high quality product in substantial and good packaging over a high quality product in flimsy packaging or a low quality product. <br>
 21. About 150 participants would change company for a better appealing package but only if the other brand is better than the previous one but a strong count of 70 revealed to stay loyal to the company. <br>
-22. Correlating the preference of small packaging and effect on purchasing due to difficulty in opening small packaging revealed that half of the people who prefer small packaging find it difficult to then open it and this has a negative impact on purchasing. On the other hand, equal number of people, who prefer smaller packaging, didn't have any issue with opening the packaging or didn't care about it. <br><br>
+22. Correlating the preference of small packaging and effect on purchasing due to difficulty in opening small packaging revealed that half of the people who prefer small packaging find it difficult to then open it and this has a negative impact on purchasing. On the other hand, equal number of people, who prefer smaller packaging, didn't have any issue with opening the packaging or didn't care about it. <br>
+23. Correlating the two factors reveals that majority people who prefer to only buy packaging which is environmental friendly, also prefer prepacked products of the same.<br>
+24. Correlating the two factors reveals that majority people who prefer to only buy packaging which is environmental friendly, most of them would then go for aseptic/tetra packing which is not always ecofriendly. This shows the contradictory purchasing choices of customers. Almost equal number of people, on the other hand, are absolutely against it.<br>
+25. Understanding customer behavior in regard with offers and sales. 35% of the surveyed customers would prefer to buy a product in quantity of three-four at once, in an offer of lower price. Closely following, approximately an equal amount of people would buy a product only when on sale.
+<br>
+26. With little more margin, 52.7% of surveyed customers buy and consume products with modified atmosphere packaging such as chips packets.
+<br>
+27. The surveyed customers ranked factors that they focus on from first to last while purchasing. Surprising, expiry of the product is a factor ranked 1 by most of the customers, during purchasing. People give the least importance to the design of the product.<br>
+28. Graphical representation of the ranking of preferrences. <br>
+29. Majority customers never want to compromise. They would always prefer to buy a high quality product in a high quality packaging.<br>
+30. Half the customers always buy tamper evident packaging and the rest are distributed between not preferring and not caring, with 20.7% and 28.6% respectively.<br>
 
 
 
